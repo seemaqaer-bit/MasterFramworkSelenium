@@ -1,9 +1,3 @@
-/**
-
- */
-
-/***************************************************/
-
 package org.selenium.annotations;
 
 import org.selenium.enums.AuthorType;
